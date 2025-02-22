@@ -1,31 +1,34 @@
-# Hello World! 🎯 👾
-
-I'm **Sai Bhargav Yenisetti** - CyberSecurity Enthusiast & Security Researcher
-
-> "Security is not a product, but a process." - Bruce Schneier
-
-## 🛡️ About Me
-
-A passionate cybersecurity enthusiast with a strong interest in offensive security, network exploitation, threat hunting, and security operations. Currently exploring ethical hacking, penetration testing, and security research. Also experienced in full-stack development.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=Initializing+Profile..." alt="Typing SVG" />
+</div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+</div>
 
-![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+```bash
+┌──[root@cybersec]─[~/profile]
+└──╼ # cat profile.txt
+
+[*] Identity: Sai Bhargav Yenisetti
+[*] Status: CyberSecurity Enthusiast & Security Researcher
+[*] Mission: Exploring the depths of cyber defense & offensive security
+```
+
+<div align="center">
+  
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
 
-## 🕵️ What I Do
+> "Security is not a product, but a process." - Bruce Schneier
 
-- **Penetration Testing**: Web applications, networks, and cloud security assessments
-- **Threat Intelligence**: Identifying and analyzing cyber threats and vulnerabilities
-- **Security Research**: Developing POCs and analyzing exploit techniques
-- **CTF Player**: Active in cybersecurity competitions (recently registered for a CTF with MAX78000FTHR kits)
-- **Honeypot Development**: Created and deployed web decoy honeypots for monitoring unauthorized access
-- **Full-Stack Development**: Proficient in building secure web applications using React, Node.js, and MongoDB
+## 🛡️ Security Arsenal
 
-## 🛠️ Arsenal & Tools 
-
-### 🔐 Security & Forensics Tools
 ```
 ├── Network Analysis
 │   ├── Wireshark
@@ -47,52 +50,65 @@ A passionate cybersecurity enthusiast with a strong interest in offensive securi
     └── Nessus
 ```
 
-### 🖥️ Development & Scripting
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-</div>
-
-## 🏆 Featured Security Projects
+## 🚀 Featured Security Projects
 
 ### 🦠 Honeypot Monitoring System
-A web decoy honeypot for detecting unauthorized access and tracking attacker behaviors.
-`Python | Flask | Logging`
+```ascii
+[+] Description: Web decoy honeypot for detecting unauthorized access
+[+] Tech Stack: Python | Flask | Logging
+[+] Status: Deployed & Monitoring
+```
 
 ### 🛡️ Secure File Sharing Platform
-A React-based web app that allows users to share files anonymously.
-`React.js | MongoDB | HTML/CSS`
+```ascii
+[+] Description: Anonymous file sharing with end-to-end encryption
+[+] Tech Stack: React.js | MongoDB | HTML/CSS
+[+] Status: Active Development
+```
 
 ### 🔍 LeakHunter
-Scan files & directories for sensitive data leaks.
-`Python | YARA | VirusTotal`
+```ascii
+[+] Description: Advanced sensitive data leak detection tool
+[+] Tech Stack: Python | YARA | VirusTotal
+[+] Status: Beta Testing
+```
 
-## 🎯 Certifications & Learning Path
+## 🎯 Certification Roadmap
 
-- **Current Pursuit**
-  - Juniper Networks Certification (Expected: Feb 2025)
-  - ACE Multicloud Network Associate (Expected: Feb 2025)
-  - CompTIA Security+ (Next 3 Months)
+```ascii
+[Current Pursuit]
+├── Juniper Networks Certification (ETA: Feb 2025)
+├── ACE Multicloud Network Associate (ETA: Feb 2025)
+└── CompTIA Security+ (Next 3 Months)
 
-- **Future Goals**
-  - CEH (Certified Ethical Hacker)
-  - AWS Cloud Practitioner
+[Future Goals]
+├── CEH (Certified Ethical Hacker)
+└── AWS Cloud Practitioner
+```
 
-## 📈 GitHub Stats
+## 📊 Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SaiBhargavYenisetti&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiBhargavYenisetti&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
-## 🌐 Let's Connect!
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaiBhargavYenisetti&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
+</div>
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sai-bhargav-55664a277)
-[![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_bhargav_77x_/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%239FEF00.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SaiBhargav)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-bhargav-55664a277)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_bhargav_77x_/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SaiBhargav)
 
 </div>
 
 ---
+<div align="center">
+  
 *"The quieter you become, the more you are able to hear" - Kali Linux*
+
+</div>
